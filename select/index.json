@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Vanilla",
+  "base_artist": "A.B.C-Z",
+  "createdAt": "2025-12-03T09:48:52.171403Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vanilla Sky",
+      "artist": "Bladee feat. Ecco2k",
+      "has_synced": true,
+      "path": "select/01_Vanilla_Sky_Bladee_feat._Ecco2k.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vanilla Sky (feat. Ecco2k)",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/02_Vanilla_Sky_(feat._Ecco2k)_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Vanilla Queen",
+      "artist": "Golden Earring",
+      "has_synced": true,
+      "path": "select/03_The_Vanilla_Queen_Golden_Earring.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Vanilla Queen",
+      "artist": "Golden Earring",
+      "has_synced": true,
+      "path": "select/04_The_Vanilla_Queen_Golden_Earring.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vanilla Queen - Live",
+      "artist": "Golden Earring",
+      "has_synced": true,
+      "path": "select/05_Vanilla_Queen_-_Live_Golden_Earring.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vanilla Queen",
+      "artist": "Golden Earring",
+      "has_synced": true,
+      "path": "select/06_Vanilla_Queen_Golden_Earring.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vanilla Queen",
+      "artist": "Golden Earring",
+      "has_synced": true,
+      "path": "select/07_Vanilla_Queen_Golden_Earring.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vanilla Skin Delight",
+      "artist": "Liv Kristine",
+      "has_synced": false,
+      "path": "select/08_Vanilla_Skin_Delight_Liv_Kristine.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vanilla",
+      "artist": "Pansy Division",
+      "has_synced": true,
+      "path": "select/09_Vanilla_Pansy_Division.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Saddest Vanilla (feat. Emeli Sandé)",
+      "artist": "Jess Glynne feat. Emeli Sandé",
+      "has_synced": true,
+      "path": "select/10_Saddest_Vanilla_(feat._Emeli_Sandé)_Jess_Glynne_feat._Emeli_Sandé.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Saddest Vanilla (Feat.Emeli Sandé)",
+      "artist": "Jess Glynne",
+      "has_synced": true,
+      "path": "select/11_Saddest_Vanilla_(Feat.Emeli_Sandé)_Jess_Glynne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Vanilla",
+      "artist": "Fickle Friends",
+      "has_synced": false,
+      "path": "select/12_Vanilla_Fickle_Friends.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vanilla",
+      "artist": "Holly Humberstone",
+      "has_synced": true,
+      "path": "select/13_Vanilla_Holly_Humberstone.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "VANILLA PEPSI (マクロスMACROSS 82-99 edit)",
+      "artist": "Saint Pepsi",
+      "has_synced": false,
+      "path": "select/14_VANILLA_PEPSI_(マクロスMACROSS_82-99_edit)_Saint_Pepsi.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Heart and Mind (Vanilla Studios Demo Version)",
+      "artist": "The Clash",
+      "has_synced": false,
+      "path": "select/15_Heart_and_Mind_(Vanilla_Studios_Demo_Version)_The_Clash.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Koka Kola, Advertising & Cocaine (Vanilla Studios Demo Version)",
+      "artist": "The Clash",
+      "has_synced": false,
+      "path": "select/16_Koka_Kola,_Advertising_&_Cocaine_(Vanilla_Studios_Demo_Version)_The_Clash.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lonesome Me (Vanilla Studios Demo Version)",
+      "artist": "The Clash",
+      "has_synced": true,
+      "path": "select/17_Lonesome_Me_(Vanilla_Studios_Demo_Version)_The_Clash.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Man In Me (Vanilla Studios Demo Version)",
+      "artist": "The Clash",
+      "has_synced": false,
+      "path": "select/18_The_Man_In_Me_(Vanilla_Studios_Demo_Version)_The_Clash.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Vanilla Sex",
+      "artist": "NOFX",
+      "has_synced": true,
+      "path": "select/19_Vanilla_Sex_NOFX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vanilla",
+      "artist": "A.B.C-Z",
+      "has_synced": false,
+      "path": "select/pl_01_Vanilla_A.B.C-Z.txt"
+    }
+  ]
+}
